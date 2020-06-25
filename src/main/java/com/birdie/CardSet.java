@@ -16,6 +16,12 @@ public class CardSet {
         Collections.sort(this.cards);
     }
 
+    public int isShunkoAndSameFlower(){
+        int a = isShunko(), b = isSameFlower();
+        if (a * b != 0) return a;
+        return 0;
+    }
+
     public int isShunko(){
         int t = cards.get(0).getPoint() - 1;
         for (Card card : cards) {

@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd14adcb-9290-4636-81ea-7a146af7d90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/birdie/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/birdie/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/birdie/CardSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/birdie/CardSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/birdie/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/birdie/Game.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +69,45 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.Test.whiteWinsWhenTest3">
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="birdie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.birdie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.birdie" />
+      <option name="MAIN_CLASS_NAME" value="com.birdie.Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.whiteWinsWhenTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="birdie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.birdie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.birdie" />
+      <option name="MAIN_CLASS_NAME" value="com.birdie.Test" />
+      <option name="METHOD_NAME" value="whiteWinsWhenTest3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test.whiteWinsWhenTest3" />
+        <item itemvalue="JUnit.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -84,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593098148573</updated>
       <workItem from="1593098149986" duration="59000" />
-      <workItem from="1593098286251" duration="723000" />
+      <workItem from="1593098286251" duration="1298000" />
     </task>
     <servers />
   </component>
