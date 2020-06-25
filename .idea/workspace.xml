@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd14adcb-9290-4636-81ea-7a146af7d90c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/birdie/CardSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/birdie/CardSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/birdie/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/birdie/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/birdie/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/birdie/Card.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test.whiteWinsWhenTest3">
+  <component name="RunManager" selected="JUnit.Test">
     <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="birdie" />
       <extension name="coverage">
@@ -103,8 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test.whiteWinsWhenTest3" />
         <item itemvalue="JUnit.Test" />
+        <item itemvalue="JUnit.Test.whiteWinsWhenTest3" />
       </list>
     </recent_temporary>
   </component>
@@ -119,8 +118,16 @@
       <option name="presentableId" value="Default" />
       <updated>1593098148573</updated>
       <workItem from="1593098149986" duration="59000" />
-      <workItem from="1593098286251" duration="1298000" />
+      <workItem from="1593098286251" duration="1549000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次集体单元测试,测试三未通过">
+      <created>1593099797618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593099797618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,5 +143,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次集体单元测试,测试三未通过" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次集体单元测试,测试三未通过" />
   </component>
 </project>

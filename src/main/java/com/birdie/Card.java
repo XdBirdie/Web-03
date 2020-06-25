@@ -2,9 +2,9 @@ package com.birdie;
 
 public class Card implements Comparable{
     static public final int D = 1;
-    static public final int S = 1;
-    static public final int H = 1;
-    static public final int C = 1;
+    static public final int S = 2;
+    static public final int H = 3;
+    static public final int C = 4;
     private int color;
     private int point;
 
