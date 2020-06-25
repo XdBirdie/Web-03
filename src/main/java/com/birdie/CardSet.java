@@ -8,7 +8,7 @@ public class CardSet {
     private List<Card> cards;
 
     public CardSet(String str){
-        this.cards = new ArrayList<>();
+        this.cards = new ArrayList<Card>();
         String[] cards = str.split(" ");
         for (String card : cards) {
             this.cards.add(new Card(card));
